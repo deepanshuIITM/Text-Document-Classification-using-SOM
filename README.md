@@ -1,6 +1,11 @@
 # Text-Document-Classification-using-SOM
 ### Text Document Classification using Self-Organizing Maps (SOM)
 
+**Preliminary Requirements:**
+1. SOM toolbox [1] in MATLAB 
+2. Available at http://www.cis.hut.fi/projects/somtoolbox/ [2]
+3. Text document classification using Self-organizing Maps [3]
+
 ![image](https://github.com/deepanshuIITM/Text-Document-Classification-using-SOM/assets/137225940/a0f4acac-6a92-4a84-a90b-f87de78cd2dc)
 
 Fig. Raw data vs. clean data
@@ -23,7 +28,13 @@ Fig. Cross-validation on SOM
 
 Fig. Confusion matrix for multi-class classification
 
+**References:**
 
+[1]. Kohonen, T. (1990). The self-organizing map. Proceedings of the IEEE, 78(9), 1464-1480.
+
+[2]. Kohonen, T., Hynninen, J., Kangas, J., Laaksonen, J. (1996). SOM_PAK: The self-organizing map program package. Report A31. Helsinki University of Technology, Laboratory of Computer and Information Science, Espoo, Finland. Also available in the Internet at the address http://www.cis.hut.fi/research/som_lvq_pak.shtml.
+
+[3]. Isa, D., Kallimani, V. P., & Lee, L. H. (2009). Using the self organizing map for clustering of text documents. Expert Systems with Applications, 36(5), 9584-9591.
 
 
 
