@@ -14,6 +14,17 @@ Fig. Cosine similarity for text/docs
 
 Fig. Multi-class text classification
 
+![image](https://github.com/deepanshuIITM/Text-Document-Classification-using-SOM/assets/137225940/46478098-6763-403d-ad05-9303fb948a50)
+
+Fig. Cross-validation on SOM 
+
+
+![image](https://github.com/deepanshuIITM/Text-Document-Classification-using-SOM/assets/137225940/48e15608-6bca-48b8-abd7-fc6edb435d68)
+
+Fig. Confusion matrix for multi-class classification
+
+
+
 
 
 
